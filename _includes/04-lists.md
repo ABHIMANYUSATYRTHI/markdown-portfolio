@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+<ol>
+  <li>figma</li>
+  <li>youtube</li>
+  <li>instagram</li>
+</ol>
