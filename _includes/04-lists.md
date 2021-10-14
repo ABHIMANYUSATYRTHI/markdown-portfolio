@@ -1,3 +1,4 @@
+*
 <ol>
   <li>-figma</li>
   <li>-youtube</li>
